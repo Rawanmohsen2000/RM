@@ -6,10 +6,11 @@ body{
 }
 .container{
     width: 100% ;
-    max-width:800%;
+    max-width:65%;
 }
 .contact-form {
     max-width: 80%;
+    max-width: 650px;
 }
 .main-data-sec {
     background-color: #dddddd;
